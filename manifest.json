@@ -1,0 +1,11 @@
+{
+  "name": "PSone for GOG Galaxy 2.0",
+  "platform": "psx",
+  "guid": "8d85ecb9-b162-44fc-b7a4-a065e134dda7",
+  "version": "0.0.1",
+  "description": "PSone Plugin for GOG Galaxy 2.0",
+  "author": "Acealone",
+  "email": "acealone@users.noreply.github.com",
+  "url": "https://github.com/acealone/galaxy-integration-psx",
+  "script": "plugin.py"
+}
