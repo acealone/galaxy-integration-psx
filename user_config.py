@@ -1,6 +1,6 @@
 # Set your roms inside the string/quotes
 roms_path = r"D:\Emulatoren\Sony Playstation"
-# Set the path to your Dolphin.exe inside the string/quotes
+# Set the path to your ePSXe.exe inside the string/quotes
 emu_path = r"C:\Emulatoren\Sony Playstation\ePSXe\ePSXe.exe"
 #Enable to allow best match algorithm instead of exact game name
 best_match_game_detection = True
