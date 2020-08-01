@@ -1,1 +1,4 @@
-**/__pycache__/*
+/__pycache__/*
+/galaxy/__pycache__/*
+/galaxy/api/__pycache__/*
+/fuzzywuzzy/__pycache__/*
