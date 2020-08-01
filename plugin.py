@@ -44,7 +44,7 @@ class PlaystationPlugin(Plugin):
                         [os.path.dirname(os.path.realpath(__file__)) + r'\TimeTracker.exe', game_id, game_id])
                 else:
                     subprocess.Popen(
-                        [user_config.retroarch_executable, "-L", user_config.core_path + r'\pcsx_rearmed_libretro.dll', "-f",
+                        [user_config.retroarch_executable, "-L", user_config.core_path + "\\" + user_config.retro_core, "-f",
                          game[0]])
                 break
         return
